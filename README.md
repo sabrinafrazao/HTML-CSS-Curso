@@ -1,2 +1,2 @@
-# HTML-CSS-projetinhos-
+# HTML e CSS 
 Repositório destinado ao aprendizado de html e css 
